@@ -10,7 +10,7 @@ public class Door : MonoBehaviour {
         {            
             if (Input.GetButtonDown("Activate"))
             {
-                Debug.Log("Player activating door");
+                Debug.Log("Player activated door");
             }
         }
     }
